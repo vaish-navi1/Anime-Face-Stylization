@@ -1,0 +1,1 @@
+*.JOJO[[:space:]]GAN filter=lfs diff=lfs merge=lfs -text
